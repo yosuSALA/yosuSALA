@@ -1,16 +1,15 @@
-# ¡Hola, soy Josue! 👋 
+# Josue Salazar
 
-🚀 **Data Engineer | Backend & Homelab Enthusiast**
-
-Economista de formación, desarrollador autodidacta por vocación. Me enfoco en construir sistemas backend eficientes, automatizar el procesamiento de datos y administrar infraestructura de servidores. Me apasiona la resolución de problemas prácticos, la arquitectura de microservicios y el self-hosting.
+22 años. Data Engineer & Backend Developer construyendo infraestructura y sistemas que resuelven problemas reales.
+Python, SQL, Docker. Arquitectura de microservicios, herramientas contables y entornos de IA auto-alojados.
 
 ---
 
-### 💻 Mis Proyectos Personales
+### 💻 Proyectos Destacados
 
-*   **📈 App Contable:** Desarrollo de una solución integral enfocada en la gestión financiera y auditoría.
-*   **⚙️ Demos de Microservicios:** Implementación de arquitecturas desacopladas para explorar y aplicar patrones de diseño backend en entornos reales.
-*   **🏠 Homelab & Self-Hosting:** Administración de infraestructura local (Ryzen 3200G / RTX 3060) utilizando Docker y Proxmox para el despliegue de servicios propios y modelos de IA.
+*   **App Contable:** Sistema integral de gestión financiera y auditoría.
+*   **Microservicios:** Implementación de arquitecturas desacopladas y patrones backend.
+*   **Homelab:** Infraestructura local (Proxmox/Docker) para despliegue de modelos de IA y automatización.
 
 ---
 
@@ -37,4 +36,4 @@ Economista de formación, desarrollador autodidacta por vocación. Me enfoco en 
 ---
 
 📫 **Conectemos:** 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](TU_ENLACE_A_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josue20031018)
